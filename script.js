@@ -1,4 +1,4 @@
-
+/*All rights reserved. by ShivWatches */
 var typed = new Typed(".typewriter-text ",
     {
         strings: [" ",
